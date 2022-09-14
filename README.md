@@ -42,15 +42,15 @@
 
 <p align="center">
     <a href="https://github.com/pridhivirmanni/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pridhi Virmani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalgera01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pridhi Virmani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pridhivirmani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/pridhivirmani/github-readme-stats"><img alt="Pridhi Virmani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujalgera01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pridhivirmani/github-readme-stats"><img alt="Pridhi Virmani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalgera01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pridhivirmani/github-readme-stats"><img alt="Pridhi Virmani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pridhivirmani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pridhivirmani/github-readme-stats"><img alt="Pridhi Virmani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pridhivirmani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/pridhivirmani/github-readme-activity-graph"><img alt="Pridhi Virmani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalgera01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pridhivirmani/github-readme-activity-graph"><img alt="Pridhi Virmani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pridhivirmani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
