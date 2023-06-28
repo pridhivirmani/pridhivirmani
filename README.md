@@ -14,7 +14,7 @@
 
 - 👨‍💻 I'm planning to get my hands into **Artificial Intelligence**
 
-- 📫 How to reach me **pridhivirmani5@gmail.com**
+
 
 
 ## 🚀 Languages and Tools:
