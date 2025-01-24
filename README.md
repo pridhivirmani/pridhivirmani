@@ -1,18 +1,18 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hey!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height= "30px"> This is Pridhi Virmani</h1>
-<h3 align="center">A passionate Web Developer from India.</h3>
+<h3 align="center">A passionate Software Engineer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Front-end Web Development**
+- 🔭 I’m currently working as a Software Engineer, contributing to enterprise-level applications.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m passionate about building scalable and efficient systems while continuously enhancing my expertise in cutting-edge technologies.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m eager to collaborate on impactful projects and explore innovative solutions to solve real-world challenges.
 
-- 👨‍💻 I'm planning to get my hands into **Artificial Intelligence**
+- 👨‍💻 I have a keen interest in solving Data Structures and Algorithms problems to improve problem-solving and analytical skills.
 
 
 
@@ -58,7 +58,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/pridhivirmani/github-readme-activity-graph"><img alt="Pridhi Virmani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pridhivirmani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
